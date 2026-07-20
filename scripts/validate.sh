@@ -9,7 +9,7 @@ required=(
   SECURITY.md
   SUPPORT.md
   profile/README.md
-  profile/assets/prism-logo.svg
+  profile/assets/prism-banner.png
 )
 
 for path in "${required[@]}"; do
