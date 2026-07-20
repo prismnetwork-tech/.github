@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/prism-logo.svg" width="112" alt="Prism Network">
+  <img src="./assets/prism-banner.png" alt="prism. network.tech">
 </p>
-
-<h1 align="center">prism.</h1>
 
 <p align="center">
   Open infrastructure for metered GPU compute.
