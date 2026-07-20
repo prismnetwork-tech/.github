@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/prism-banner.png" alt="prism. network.tech">
+  <img width="1500" height="500" alt="prismbanner" src="https://github.com/user-attachments/assets/d19ae36f-ee32-427c-855c-f1e123d9dd9c" />
 </p>
 
 <p align="center">
